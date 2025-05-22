@@ -1,0 +1,17 @@
+Windows
+............................................... Configure and run
+
+choco install ngrok
+ngrok config add-authtoken <token>
+
+
+
+............................................... Configure and run
+
+
+
+..............................................Start an endpoint:
+
+ngrok http 80
+
+..............................................Start an endpoint:
